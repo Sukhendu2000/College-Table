@@ -12,9 +12,9 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 # Credits
 ### This web app uses the following technologies:
--- HTML for structuring the content
--- CSS for styling the content
--- JavaScript for handling the filter and sort functionality
+HTML for structuring the content
+CSS for styling the content
+JavaScript for handling the filter and sort functionality
 
 
 # Acknowledgements
